@@ -19,3 +19,11 @@ Sections were broken down into **PART A** and **PART B.**
 **Part A** also contains the requirements for our README (wow, this is meta). As each section is completed, they are ticked off.
 
 **Part B** contains tasks and  related to the programming requirements.
+
+####Wireframes for multiple standard screen sizes, created using industry standard software
+HOME
+![](./home.png)
+GALLERY
+
+![](./gallery.png)
+

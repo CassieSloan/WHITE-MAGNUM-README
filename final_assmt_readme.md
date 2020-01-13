@@ -18,12 +18,28 @@ Sections were broken down into **PART A** and **PART B.**
 
 **Part A** also contains the requirements for our README (wow, this is meta). As each section is completed, they are ticked off.
 
+![](./asana2.png)
+
+It's also been divided into days as we go, to keep track of what we want to accomplish during what timeframe.
+
 **Part B** contains tasks and  related to the programming requirements.
+
+***
 
 ####Wireframes for multiple standard screen sizes, created using industry standard software
 HOME
+
 ![](./home.png)
+
 GALLERY
 
 ![](./gallery.png)
+
+BLOG
+
+![](./blog.png)
+
+CONTACT
+
+![](./contact.png)
 

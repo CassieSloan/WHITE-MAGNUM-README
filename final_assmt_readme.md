@@ -5,6 +5,44 @@
 - Ragan
 
 ***
+###Purpose
+
+- Showcase Bronte’s abilities/services
+- Attract potential clients
+- Keep clients/viewers up to date with Bronte’s activities
+- Show Bronte’s contact details for future business
+
+The purpose of Bronte’s portfolio website is to showcase her photography, design services and blog to potential clients and general browsers. The website will be a platform where a potential client can view Bronte’s previous work, browse through her services and be able to contact Bronte for future business. Though the website is looking to generate business the main purpose is to showcase Bronte’s art and life in an online medium. 
+
+The website will present Bronte’s previous work in a way which matches the style of her photography employing a minimalist approach. The purpose of this is to create a frame for Bronte’s art which compliments the photography and entice potential clients/general users to explore the website further. 
+
+The blog component of the website aims to be a platform for self-expression and keeping potential clients/general browsers up-to-date with her current projects and life. The blog will maintain the minimalist theme of the website and be another way to generate interest in Bronte’s life and work. 
+
+***
+
+###Target Audience
+
+- Bronte (client)
+- Prospective clients (of Bronte)
+- General browsers 
+
+The target audience of the portfolio website is divided into three groups: **Bronte, prospective clients and general browsers.** While the way in which prospective clients and general browsers will consume the website will be similar, Bronte's use of the website will be completely different. 
+
+As the primary user of the website, ***Bronte*** will be the main target audience and given admin access to create, read, update and delete resources from the website. This access is given so Bronte has full control over the published content and provides choice of what she wishes to showcase. The website will be built in a way which allows Bronte to easily add/edit content to provide that choice and improve the maintainability of the website. 
+
+In addition to Bronte, the target audience of the website includes ***prospective clients***. To cater to this audience the website will employ vivid imagery, animations and clear navigation tools to entice prospective clients to explore the website further. Ideally, a prospective client will navigate through the entire website to view Bronte’s work, services, blog and, most importantly, contact details. A contact form will be provided so that a prospective client can fill in their name, contact details and business enquiry so that Bronte can get in touch and discuss the enquiry further.  
+
+The website aims to attract an audience of ***general browsers*** to view Bronte’s art and blog. By employing vivid imagery, animations and clear navigation tools general browsers can easily navigate through the website to view Bronte’s overall style and be interested in her blog. Both prospective clients and general browsers will have read only access rights to protect the integrity of the website’s content. 
+
+
+
+***
+
+###Tech stack
+
+![](./tech_stack.png)
+
+***
 
 ###Screenshots of your Trello board throughout the duration of the project
 
@@ -27,6 +65,8 @@ It's also been divided into days as we go, to keep track of what we want to acco
 ####**Part B** 
 
 Contains tasks related to the programming of the project.
+
+Part B contains a checklist of tasks related to the rubric requirements for the project, to ensure we don't stray from the brief.
 
 This section details client-provided parameters for what should be on each page and the style guidelines.
 
@@ -81,3 +121,4 @@ ABOUT ME
 
 ![](./image_click.png)
 ![](./phone_menu_click.png)
+![](./gallery_images.png)

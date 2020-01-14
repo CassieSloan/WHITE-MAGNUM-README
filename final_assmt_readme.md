@@ -34,13 +34,39 @@ In addition to Bronte, the target audience of the website includes ***prospectiv
 
 The website aims to attract an audience of ***general browsers*** to view Bronte’s art and blog. By employing vivid imagery, animations and clear navigation tools general browsers can easily navigate through the website to view Bronte’s overall style and be interested in her blog. Both prospective clients and general browsers will have read only access rights to protect the integrity of the website’s content. 
 
-
-
 ***
 
 ###Tech stack
 
 ![](./tech_stack.png)
+
+- **MongoDB**
+    - MongoDB is a non-relational database, which will be used to store blog entries made by Bronte. 
+- **Express**
+    - Express is a web server framework that runs with Node.js. Express will be used to handle the CRUD routes for both the photos and blog resources. It will also handle authentication and locking down certain admin routes via Passport and JWT.
+- **React**
+    - React is a front-end JavaScript framework that is responsible for rendering user-facing views and components. All routing will be handled on the client side via React Router.
+- **Node**
+    - Node is a runtime environment for JavaScript to run on the server side. Node will run the express web server, as well as handle JWT authentication for locking down the admin dashboard and routes.
+- **AWS (S3)**
+    - S3 is an AWS product that allows for cloud storage of images. This will be used to store the bulk of Bronte’s images, which will then be pulled into the application. 
+- **Heroku**
+     - Heroku is a cloud-based application deployment service which the website will be deployed on.
+- **Sendgrid**
+    - Sendgrid is a third party transactional mail client that will handle any email being sent to Bronte via the email form on the contact page
+- **Asana**
+    - Asana is a task manager platform that is being used to track the progress of the application, and how the different tasks are delegated.
+- **Slack**
+    - Slack is a messaging system being used by the team for general communication and sharing of ideas.
+- **Canva**
+    - Canva is an online graphic design tool that is used to create the images and graphics that are seen on the application’s documentation.
+- **Google docs**
+    - for collaboration and idea sharing
+- **VS code**
+    - Integrated development environment to write our code in
+- **Github/Gitkraken**
+    - Github is an online source control platform that allows developers to collaborate. Gitkraken is a GUI interface that allows easier collaboration on projects. 
+
 
 ***
 
@@ -68,7 +94,11 @@ Contains tasks related to the programming of the project.
 
 Part B contains a checklist of tasks related to the rubric requirements for the project, to ensure we don't stray from the brief.
 
+![](./asana_3.png)
+
 This section details client-provided parameters for what should be on each page and the style guidelines.
+
+
 
 ***
 
@@ -93,6 +123,9 @@ This section details client-provided parameters for what should be on each page 
 - As a potential client, I want to be able to *see Bronte’s work* so I can determine if I want her services or not
 
 - As a general browser, I want to be able to read Bronte’s blog posts so I can *keep up to date with what she’s doing*
+
+- As a user of the website, I want to be able to navigate through the website so that I can view all of the content available. 
+
 
 
 ***
@@ -122,3 +155,7 @@ ABOUT ME
 ![](./image_click.png)
 ![](./phone_menu_click.png)
 ![](./gallery_images.png)
+
+***
+
+***

@@ -109,7 +109,7 @@ The website aims to attract an audience of ***general browsers*** to view Bronte
 
 ***
 ###Dataflow diagram
-![](./admin-dataflow.png)
+![](./dataflow-diagram-2.png)
 ***
 ###Screenshots of your Trello board throughout the duration of the project
 
@@ -194,7 +194,5 @@ ABOUT ME
 ![](./image_click.png)
 ![](./phone_menu_click.png)
 ![](./gallery_images.png)
-
-***
 
 ***

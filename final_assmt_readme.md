@@ -19,6 +19,41 @@ The website will present Bronte’s previous work in a way which matches the sty
 The blog component of the website aims to be a platform for self-expression and keeping potential clients/general browsers up-to-date with her current projects and life. The blog will maintain the minimalist theme of the website and be another way to generate interest in Bronte’s life and work. 
 
 ***
+###Functionality/Features
+
+Bronte’s portfolio website will utilise a number of features to achieve the main purpose of showcasing her art, services and life while enabling users to get in contact for future business. The features of the website include the following; 
+
+**Home page carousel which shows only header images from blog posts/portfolio** 
+- When Bronte creates a post with an attached image, the image will be saved to the database and rendered as part of an image carousel. 
+
+**Contact form for users to email Bronte**
+- The contact page will present users with a contact form where they can fill in their name, email, phone number and business enquiry - utilising Sendgrid to email Bronte the information. 
+ 
+**Navbar/hamburger dropdown for mobile**
+- To navigate through the website, a clean navigation bar will be employed at the top of the page so users can browse through the entire website. A hamburger menu will be used for mobile. 
+
+**Admin dashboard where Bronte can maintain resources with full CRUD abilities.** 
+- A second react app and server providing Bronte with admin rights will be created. It’s here where she can create, read, update and delete posts on the portfolio website. 
+
+**Blog post for media upload** 
+- The website will have a blog page component where Bronte can create a post containing a Title, Description, Image and Image Caption + timestamp.
+
+**Services page listing Bronte’s various services and pricing** 
+- The website will present Bronte’s various services with pricing breakdown.   
+
+**About me page with self-portraits, about me text and links to socials**
+-  The about me page will contain multiple images, text and hyperlinks to social media sites. 
+
+**Social icon buttons**
+- Additional social media icon buttons will be available throughout the website. 
+ 
+**Animations (loading, transitions, hover, menu)**
+- Various animations will be sprinkled throughout the website to add movement, colour and life to keep the user engaged and entertained. 
+ 
+**Styled components (Day/night mode themes)**
+- A ‘sprinkle’ feature will be a styled component which gives users a day/night mode toggle button  
+
+***
 
 ###Target Audience
 
@@ -67,9 +102,15 @@ The website aims to attract an audience of ***general browsers*** to view Bronte
 - **Github/Gitkraken**
     - Github is an online source control platform that allows developers to collaborate. Gitkraken is a GUI interface that allows easier collaboration on projects. 
 
+***
+###Application Architecture Diagram
+
+![](./architectual_diagram.png)
 
 ***
-
+###Dataflow diagram
+![](./admin-dataflow.png)
+***
 ###Screenshots of your Trello board throughout the duration of the project
 
 We chose [Asana](https://app.asana.com/0/1155724488391785/list) as our project/task manager.
@@ -94,11 +135,9 @@ Contains tasks related to the programming of the project.
 
 Part B contains a checklist of tasks related to the rubric requirements for the project, to ensure we don't stray from the brief.
 
-![](./asana_3.png)
+![](./asana_4.png)
 
-This section details client-provided parameters for what should be on each page and the style guidelines.
-
-
+This section details client-provided parameters for what should be on each page and the style guidelines, as well as subtasks for building the front end, back end, and other essential steps during the project.
 
 ***
 
